@@ -8,7 +8,7 @@ Nous nous concentrons sur un échantillon représentatif d'entreprises en 2012 e
 
 Notre ensemble de données, 'original_bisnode_data', couvre l'ensemble de la population des entreprises entre 2005 et 2016 pour certaines industries manufacturières et de services. Les grandes entreprises (plus de 100 millions d'euros de chiffre d'affaires annuel) sont exclues pour des raisons de protection des données. Nous nous concentrons sur les petites et moyennes entreprises (PME) avec un chiffre d'affaires annuel inférieur à 10 millions d'euros en 2012 et excluons les entreprises non opérationnelles avec des ventes inférieures à 1 000 euros. 
 
-> Les données se trouvent dans un fichier zip en raison de son volume. 
+> Les données se trouvent dans un fichier zip en raison de son important volume. 
 
 ## Analyse exploratoire
 
